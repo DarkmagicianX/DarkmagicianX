@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DarkmagicianX
-- 👀 I’m interested in Mobile App/Mobile Game Development
-- 🌱 I’m currently learning App design/Frameworks
-- 💞️ I’m looking to collaborate on anything thats fun/interesting
+- 👋 Hi, I’m Arvin! 
+-  I’m interested in Mobile App/Mobile Game Development
+-  
+-  I’m looking to collaborate on anything thats integrated with modern frameworks/business e-commerce design
 - 📫 How to reach me: Greengodpepper@gmail.com
-
-<!---
-DarkmagicianX/DarkmagicianX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
